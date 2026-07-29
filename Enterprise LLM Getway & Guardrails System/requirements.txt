@@ -1,0 +1,9 @@
+redis
+nemoguardrails
+langfuse
+groq
+prometheus_fastapi_instrumentator
+fastapi
+uvicorn
+python-dotenv
+pydantic
